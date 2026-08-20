@@ -9,7 +9,8 @@ The project also includes a dedicated **Admin Panel** for managing food items an
 
 ## 🌐 Live Demo
 
-🚧  https://tomato-food-delivery-frontend-sgow.onrender.com
+🚧 --> Frontend :-  https://tomato-food-delivery-frontend-sgow.onrender.com
+🚧 --> Admin Panel:- https://tomato-food-delivery-admin-hkq9.onrender.com
 
 # ✨ Features
 
